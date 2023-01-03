@@ -1,0 +1,20 @@
+## This is a full stack MERN social media application
+
+## Creating the backend server
+    # Install nodemon typing "npm i -g nodemon"
+    # Install all the packages typing "npm i express body-parser bcrypt cors dotenv girdfs-stream multer multer-gridfs-storage helmet morgan
+    jsonwebtoken mongoose"
+    # After installing type "npm init -y" and add ""type": "module"," in package.json file
+    # Create a new file index.js and import all the packages
+    # Create models, controllers, routes folder and files in each folder (for registration and login user)
+    # Create another folder middleware for authentication
+
+## Creating the Frontend
+    # Create a new react app "npx create-react-app client"
+    # Install all the packages typing "npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yop react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material
+    # Create a new file jsconfig.json
+    # Import font in index.css file
+    # Create a new folder scense and create all the folders and relevent files
+    # In App.js import all the pages and setup routes
+    # After go to state -> index.js and setup the states
+
